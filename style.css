@@ -64,7 +64,6 @@ a {
     list-style: none;
     height: 80px;
     line-height: 80px;
-    padding: 0 10%;
 }
 
 .nav ul li img {
@@ -135,3 +134,4 @@ a {
     transition: .5s;
 
 }
+
