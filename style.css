@@ -21,7 +21,8 @@ h1 {
 }
 
 h1 img{
-    height: 70%;
+    max-width: 1000px;
+    width: 100%;
 }
 a {
     color: aliceblue;
@@ -134,4 +135,5 @@ a {
     transition: .5s;
 
 }
+
 
